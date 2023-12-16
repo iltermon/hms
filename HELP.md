@@ -1,3 +1,8 @@
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'com.example.spring-boot' is invalid and this project uses 'com.example.springboot' instead.
+
 # Getting Started
 
 ### Reference Documentation
